@@ -32,12 +32,36 @@ In this part I'm sharing 2 diagrams to understand better Ela Pets. Because an im
 
 This is the higher part of Ela Pets:
 
-![Ela Pets higher part](https://imgur.com/a/WjmZO8S)
+![](https://user-images.githubusercontent.com/39676917/42352018-56129a02-80b8-11e8-96c6-b7a7388e1ba8.png)
 
 And here is the lower part of Ela Pets:
 
-![Ela Pets lower part](https://imgur.com/a/zyeLbYc)
+![](https://user-images.githubusercontent.com/39676917/42352024-5a326f40-80b8-11e8-854d-534ba9787127.png)
 
 
-## Ela Pets UI
+## Ela Pets User Interfaces
+
+Here we can see the introduction of the Ela Pets UI
+
+<img width="522" alt="1" src="https://user-images.githubusercontent.com/39676917/42352144-f83838c8-80b8-11e8-83e6-d9c3ffc7013a.png">
+
+Here we there is the user interface of the Ela Pets that the owner/user has
+
+<img width="522" alt="2" src="https://user-images.githubusercontent.com/39676917/42352147-fd2b23b8-80b8-11e8-8da3-992152a9f408.png">
+
+Here we can see the settings of the user/owner of Ela Pets
+
+<img width="523" alt="3" src="https://user-images.githubusercontent.com/39676917/42352152-ff87c22e-80b8-11e8-853e-a4238ab30643.png">
+
+Now in this UI there is the Ela Pets Store where all Ela Pets are listed
+
+<img width="560" alt="4" src="https://user-images.githubusercontent.com/39676917/42352155-01fbd428-80b9-11e8-8541-807fc6c9c0e6.png">
+
+Here we can see the siring place 
+
+<img width="523" alt="captura de pantalla 2018-07-06 a las 0 47 49" src="https://user-images.githubusercontent.com/39676917/42352156-0412e436-80b9-11e8-9756-2733f971a4a0.png">
+
+
+
+
 
