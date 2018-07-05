@@ -55,7 +55,7 @@ Here we can see the settings of the user/owner of Ela Pets
 
 Now in this UI there is the Ela Pets Store where all Ela Pets are listed
 
-<img width="560" alt="4" src="https://user-images.githubusercontent.com/39676917/42352155-01fbd428-80b9-11e8-8541-807fc6c9c0e6.png">
+<img width="560" alt="4" src="https://user-images.githubusercontent.com/39676917/42352657-2922a84e-80bc-11e8-9efa-6238ec4adf26.png">
 
 Here we can see the siring place 
 
